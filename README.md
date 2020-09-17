@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 In this app you will see that what the tip calcultor consist of and how does it calculate. It basically splits up the bill among number of people at certain percentage and calculate how much an individual person has to give
 The slider bar helps us set the percenatge bar which has 10 divisions
 
-![](Screenshot(34).png)
+![](Screenshot%20(34).png)
