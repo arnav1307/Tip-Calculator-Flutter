@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+In this app you will see that what the tip calcultor consist of and how does it calculate. It basically splits up the bill among number of people at certain percentage and calculate how much an individual person has to give
